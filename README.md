@@ -2,7 +2,7 @@
 
 An analysis of 5.4 million consumer complaints filed with the Consumer Financial Protection Bureau (CFPB) in 2025, examining where consumer harm is concentrated, how well companies resolve complaints, and what drives sudden spikes in complaint volume.
 
-**[View the interactive dashboard](ADD_YOUR_TABLEAU_LINK)** · **[Read the findings memo](ADD_YOUR_MEMO_PDF_LINK)**
+**[View the interactive dashboard]([ADD_YOUR_TABLEAU_LINK](https://public.tableau.com/app/profile/hana.elzayat/viz/MappingComplianceRiskinConsumerFinance/Dashboard1))** · **[Read the findings memo](file:///Users/hanaelzayat/Downloads/Mapping%20Compliance%20Risk%20in%20Consumer%20Finance_%20Evidence%20from%202025%20CFPB%20Complaints%20(1).pdf)**
 
 ## Key findings
 
