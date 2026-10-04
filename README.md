@@ -1,4 +1,3 @@
-# cfpb-compliance-risk-analysis
 # Mapping Compliance Risk in Consumer Finance: Evidence from 2025 CFPB Complaints
 
 An analysis of 5.4 million consumer complaints filed with the Consumer Financial Protection Bureau (CFPB) in 2025, examining where consumer harm is concentrated, how well companies resolve complaints, and what drives sudden spikes in complaint volume.
